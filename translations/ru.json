@@ -239,6 +239,9 @@
         "online": "В сети",
         "starting": "Начинающий",
         "modified at": "Модифицирован в",
-        "usage": "Применение"
+        "usage": "Применение",
+        "enter the existing password": "Введите существующий пароль",
+        "enter the new password": "Введите новый пароль",
+        "reenter the new password": "Введите новый пароль"
     }
 }

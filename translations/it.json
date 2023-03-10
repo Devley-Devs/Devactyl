@@ -239,6 +239,9 @@
         "online": "in linea",
         "starting": "Di partenza",
         "modified at": "Modificato a",
-        "usage": "Utilizzo"
+        "usage": "Utilizzo",
+        "enter the existing password": "Immettere la password esistente",
+        "enter the new password": "Immettere la nuova password",
+        "reenter the new password": "Rientrare nella nuova password"
     }
 }

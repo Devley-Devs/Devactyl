@@ -239,6 +239,9 @@
         "online": "在线的",
         "starting": "开始",
         "modified at": "修改为",
-        "usage": "用法"
+        "usage": "用法",
+        "enter the existing password": "输入现有密码",
+        "enter the new password": "输入新密码",
+        "reenter the new password": "重新输入新密码"
     }
 }

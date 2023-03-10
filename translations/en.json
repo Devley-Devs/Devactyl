@@ -239,6 +239,9 @@
         "online": "Online",
         "starting": "Starting",
         "modified at": "Modified at",
-        "usage": "Usage"
+        "usage": "Usage",
+        "enter the existing password": "Enter the Existing Password",
+        "enter the new password": "Enter the New Password",
+        "reenter the new password": "ReEnter the New Password"
     }
 }

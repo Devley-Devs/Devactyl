@@ -239,6 +239,9 @@
         "online": "オンライン",
         "starting": "起動",
         "modified at": "で変更されました",
-        "usage": "使用法"
+        "usage": "使用法",
+        "enter the existing password": "既存のパスワードを入力します",
+        "enter the new password": "新しいパスワードを入力します",
+        "reenter the new password": "新しいパスワードに再び入ります"
     }
 }

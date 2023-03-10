@@ -239,6 +239,9 @@
         "online": "Uppkopplad",
         "starting": "Startande",
         "modified at": "Modifierad",
-        "usage": "Användande"
+        "usage": "Användande",
+        "enter the existing password": "Ange det befintliga lösenordet",
+        "enter the new password": "Ange det nya lösenordet",
+        "reenter the new password": "Ange det nya lösenordet igen"
     }
 }

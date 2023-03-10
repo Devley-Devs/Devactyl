@@ -239,6 +239,9 @@
         "online": "Trực tuyến",
         "starting": "Bắt đầu",
         "modified at": "Sửa đổi tại",
-        "usage": "Cách sử dụng"
+        "usage": "Cách sử dụng",
+        "enter the existing password": "Nhập mật khẩu hiện có",
+        "enter the new password": "Nhập mật khẩu mới",
+        "reenter the new password": "Làm lại mật khẩu mới"
     }
 }

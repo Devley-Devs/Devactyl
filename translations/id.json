@@ -239,6 +239,9 @@
         "online": "On line",
         "starting": "Mulai",
         "modified at": "Dimodifikasi di",
-        "usage": "Penggunaan"
+        "usage": "Penggunaan",
+        "enter the existing password": "Masukkan kata sandi yang ada",
+        "enter the new password": "Masukkan Kata Sandi Baru",
+        "reenter the new password": "Masuk kembali ke kata sandi baru"
     }
 }

@@ -239,6 +239,9 @@
         "online": "Online",
         "starting": "Beginnend",
         "modified at": "Aangepast aan",
-        "usage": "Gebruik"
+        "usage": "Gebruik",
+        "enter the existing password": "Voer het bestaande wachtwoord in",
+        "enter the new password": "Voer het nieuwe wachtwoord in",
+        "reenter the new password": "Voer het nieuwe wachtwoord opnieuw in"
     }
 }

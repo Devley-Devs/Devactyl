@@ -239,6 +239,9 @@
         "online": "متصل",
         "starting": "ابتداء",
         "modified at": "تم تعديله في",
-        "usage": "الاستخدام"
+        "usage": "الاستخدام",
+        "enter the existing password": "أدخل كلمة المرور الحالية",
+        "enter the new password": "أدخل كلمة المرور الجديدة",
+        "reenter the new password": "إعادة إدخال كلمة المرور الجديدة"
     }
 }

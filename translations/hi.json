@@ -239,6 +239,9 @@
         "online": "ऑनलाइन",
         "starting": "शुरुआत",
         "modified at": "पर संशोधित किया गया",
-        "usage": "प्रयोग"
+        "usage": "प्रयोग",
+        "enter the existing password": "मौजूदा पासवर्ड दर्ज करें",
+        "enter the new password": "नया पासवर्ड दर्ज करें",
+        "reenter the new password": "नया पासवर्ड फिर से शुरू करें"
     }
 }
