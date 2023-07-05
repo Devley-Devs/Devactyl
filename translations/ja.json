@@ -62,7 +62,8 @@
         "invalid_api": "無効なAPIキーテイクを取得しました",
         "key_missing": "pterodactylパネルアカウントをボットにリンクします",
         "other_user_server": "他のユーザーサーバーを制御することはできません",
-        "admin_invalid_api": "無効なAPIキー変更がありました"
+        "admin_invalid_api": "無効なAPIキー変更がありました",
+        "no_instance": "現在、アカウントに関連付けられているアクティブコンソールインスタンスはありません"
     },
     "api": {
         "title": "APIキーを作成する手順",
@@ -242,6 +243,15 @@
         "usage": "使用法",
         "enter the existing password": "既存のパスワードを入力します",
         "enter the new password": "新しいパスワードを入力します",
-        "reenter the new password": "新しいパスワードに再び入ります"
+        "reenter the new password": "新しいパスワードに再び入ります",
+        "disable": "無効にします",
+        "console instance": "コンソールインスタンス",
+        "console type": "コンソールタイプ",
+        "console time": "コンソール時間",
+        "disable time": "時間を無効にします",
+        "disabled the current console instance": "現在のコンソールインスタンスを無効にしました",
+        "instance page": "インスタンスページ",
+        "active console": "アクティブコンソール",
+        "ends": "終わり"
     }
 }

@@ -62,7 +62,8 @@
         "invalid_api": "Dostałem nieprawidłowy klucz API",
         "key_missing": "Połącz swoje konto pterodaktylowe z botem",
         "other_user_server": "Nie możesz kontrolować serwera innych użytkowników",
-        "admin_invalid_api": "Dostałem nieprawidłową zmianę klucza API"
+        "admin_invalid_api": "Dostałem nieprawidłową zmianę klucza API",
+        "no_instance": "Obecnie nie ma aktywnych instancji konsoli powiązanych z Twoim kontem"
     },
     "api": {
         "title": "Kroki, aby utworzyć klucz API",
@@ -242,6 +243,15 @@
         "usage": "Stosowanie",
         "enter the existing password": "Wprowadź istniejące hasło",
         "enter the new password": "Wprowadź nowe hasło",
-        "reenter the new password": "Ponownie wprowadź nowe hasło"
+        "reenter the new password": "Ponownie wprowadź nowe hasło",
+        "disable": "Wyłączyć",
+        "console instance": "Instancja konsoli",
+        "console type": "Typ konsoli",
+        "console time": "Czas konsoli",
+        "disable time": "Wyłącz czas",
+        "disabled the current console instance": "Wyłączył bieżącą instancję konsoli",
+        "instance page": "Strona instancji",
+        "active console": "Aktywna konsola",
+        "ends": "kończy się"
     }
 }

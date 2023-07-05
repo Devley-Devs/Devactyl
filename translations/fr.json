@@ -62,7 +62,8 @@
         "invalid_api": "Vous avez une prise de clé API non valide",
         "key_missing": "Lienz votre compte de panneau Pterodactyl avec le bot",
         "other_user_server": "Vous ne pouvez pas contrôler le serveur d'autres utilisateurs",
-        "admin_invalid_api": "J'ai un changement de clé de l'API non valide dans"
+        "admin_invalid_api": "J'ai un changement de clé de l'API non valide dans",
+        "no_instance": "Actuellement, il n'y a pas d'instances de console actives associées à votre compte"
     },
     "api": {
         "title": "Étapes pour créer une clé API",
@@ -242,6 +243,15 @@
         "usage": "Usage",
         "enter the existing password": "Entrez le mot de passe existant",
         "enter the new password": "Entrez le nouveau mot de passe",
-        "reenter the new password": "Retournez le nouveau mot de passe"
+        "reenter the new password": "Retournez le nouveau mot de passe",
+        "disable": "Désactiver",
+        "console instance": "Instance de console",
+        "console type": "Type de console",
+        "console time": "Heure de la console",
+        "disable time": "Désactiver le temps",
+        "disabled the current console instance": "Désactivé l'instance de console actuelle",
+        "instance page": "Page d'instance",
+        "active console": "Console active",
+        "ends": "prend fin"
     }
 }

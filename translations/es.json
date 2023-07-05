@@ -62,7 +62,8 @@
         "invalid_api": "Tengo una llave de API inválida",
         "key_missing": "Enlace su cuenta de panel PTerodactyl con el bot",
         "other_user_server": "No puede controlar el servidor de otros usuarios",
-        "admin_invalid_api": "Obtuve un cambio de clave de API inválido en"
+        "admin_invalid_api": "Obtuve un cambio de clave de API inválido en",
+        "no_instance": "Actualmente no hay instancias de consola activa asociadas con su cuenta."
     },
     "api": {
         "title": "Pasos para crear una clave API",
@@ -242,6 +243,15 @@
         "usage": "Uso",
         "enter the existing password": "Ingrese la contraseña existente",
         "enter the new password": "Ingrese la nueva contraseña",
-        "reenter the new password": "Vuelva a ingresar la nueva contraseña"
+        "reenter the new password": "Vuelva a ingresar la nueva contraseña",
+        "disable": "Desactivar",
+        "console instance": "Instancia de consola",
+        "console type": "Tipo de consola",
+        "console time": "Tiempo de consola",
+        "disable time": "Desactivar el tiempo",
+        "disabled the current console instance": "Deshabilitado la instancia de la consola actual",
+        "instance page": "Página de instancia",
+        "active console": "Consola activa",
+        "ends": "fines"
     }
 }

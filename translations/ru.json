@@ -62,7 +62,8 @@
         "invalid_api": "Получил недопустимый ключ API",
         "key_missing": "Свяжите свою учетную запись панели Pterodactyl с ботом",
         "other_user_server": "Вы не можете контролировать сервер другого пользователя",
-        "admin_invalid_api": "Получил неверное изменение ключа API в"
+        "admin_invalid_api": "Получил неверное изменение ключа API в",
+        "no_instance": "В настоящее время не существует случаев активных консолей, связанных с вашей учетной записью"
     },
     "api": {
         "title": "Шаги для создания ключа API",
@@ -242,6 +243,15 @@
         "usage": "Применение",
         "enter the existing password": "Введите существующий пароль",
         "enter the new password": "Введите новый пароль",
-        "reenter the new password": "Введите новый пароль"
+        "reenter the new password": "Введите новый пароль",
+        "disable": "Запрещать",
+        "console instance": "Консольный экземпляр",
+        "console type": "Тип консоли",
+        "console time": "Время консоли",
+        "disable time": "Отключить время",
+        "disabled the current console instance": "Отключил экземпляр текущей консоли",
+        "instance page": "Страница экземпляра",
+        "active console": "Активная консоль",
+        "ends": "заканчивается"
     }
 }

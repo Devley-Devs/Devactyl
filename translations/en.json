@@ -62,7 +62,8 @@
         "invalid_api": "Got an Invalid API Key take",
         "key_missing": "Link your Pterodactyl Panel Account with the Bot",
         "other_user_server": "You cannot control Other User's Server",
-        "admin_invalid_api": "Got an Invalid API Key change in"
+        "admin_invalid_api": "Got an Invalid API Key change in",
+        "no_instance": "Currently there are no Active Console Instances associated with your account"
     },
     "api": {
         "title": "Steps to Create an API Key",
@@ -242,6 +243,15 @@
         "usage": "Usage",
         "enter the existing password": "Enter the Existing Password",
         "enter the new password": "Enter the New Password",
-        "reenter the new password": "ReEnter the New Password"
+        "reenter the new password": "ReEnter the New Password",
+        "disable": "Disable",
+        "console instance": "Console Instance",
+        "console type": "Console Type",
+        "console time": "Console Time",
+        "disable time": "Disable Time",
+        "disabled the current console instance": "Disabled the Current Console Instance",
+        "instance page": "Instance Page",
+        "active console": "Active Console",
+        "ends": "ends"
     }
 }

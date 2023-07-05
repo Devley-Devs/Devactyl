@@ -62,7 +62,8 @@
         "invalid_api": "एक अमान्य एपीआई कुंजी ले गया",
         "key_missing": "बॉट के साथ अपने pterodactyl पैनल खाते को लिंक करें",
         "other_user_server": "आप अन्य उपयोगकर्ता के सर्वर को नियंत्रित नहीं कर सकते",
-        "admin_invalid_api": "में एक अमान्य एपीआई कुंजी परिवर्तन मिला"
+        "admin_invalid_api": "में एक अमान्य एपीआई कुंजी परिवर्तन मिला",
+        "no_instance": "वर्तमान में आपके खाते से जुड़े कोई सक्रिय कंसोल इंस्टेंस नहीं हैं"
     },
     "api": {
         "title": "एपीआई कुंजी बनाने के लिए कदम",
@@ -242,6 +243,15 @@
         "usage": "प्रयोग",
         "enter the existing password": "मौजूदा पासवर्ड दर्ज करें",
         "enter the new password": "नया पासवर्ड दर्ज करें",
-        "reenter the new password": "नया पासवर्ड फिर से शुरू करें"
+        "reenter the new password": "नया पासवर्ड फिर से शुरू करें",
+        "disable": "अक्षम करना",
+        "console instance": "कंसोल उदाहरण",
+        "console type": "कंसोल प्रकार",
+        "console time": "कंसोल समय",
+        "disable time": "समय अक्षम करें",
+        "disabled the current console instance": "वर्तमान कंसोल इंस्टेंस को अक्षम कर दिया",
+        "instance page": "उदाहरण पृष्ठ",
+        "active console": "सक्रिय कंसोल",
+        "ends": "समाप्त होता है"
     }
 }

@@ -62,7 +62,8 @@
         "invalid_api": "حصلت على مفتاح API غير صالح",
         "key_missing": "ربط حساب لوحة Pterodactyl الخاص بك مع الروبوت",
         "other_user_server": "لا يمكنك التحكم في خادم المستخدم الآخر",
-        "admin_invalid_api": "حصلت على تغيير مفتاح API غير صالح في"
+        "admin_invalid_api": "حصلت على تغيير مفتاح API غير صالح في",
+        "no_instance": "حاليًا لا توجد حالات وحدة تحكم نشطة مرتبطة بحسابك"
     },
     "api": {
         "title": "خطوات لإنشاء مفتاح API",
@@ -242,6 +243,15 @@
         "usage": "الاستخدام",
         "enter the existing password": "أدخل كلمة المرور الحالية",
         "enter the new password": "أدخل كلمة المرور الجديدة",
-        "reenter the new password": "إعادة إدخال كلمة المرور الجديدة"
+        "reenter the new password": "إعادة إدخال كلمة المرور الجديدة",
+        "disable": "إبطال",
+        "console instance": "مثيل وحدة التحكم",
+        "console type": "نوع وحدة التحكم",
+        "console time": "وقت وحدة التحكم",
+        "disable time": "تعطيل الوقت",
+        "disabled the current console instance": "تعطيل مثيل وحدة التحكم الحالية",
+        "instance page": "صفحة مثيل",
+        "active console": "وحدة تحكم نشطة",
+        "ends": "ينتهي"
     }
 }

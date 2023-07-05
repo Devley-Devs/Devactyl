@@ -62,7 +62,8 @@
         "invalid_api": "Tenho uma chave de API inválida",
         "key_missing": "Vincule sua conta de painel de pterodáctilo com o bot",
         "other_user_server": "Você não pode controlar o servidor de outro usuário",
-        "admin_invalid_api": "Tenho uma mudança de chave de API inválida em"
+        "admin_invalid_api": "Tenho uma mudança de chave de API inválida em",
+        "no_instance": "Atualmente, não há instâncias de console ativo associadas à sua conta"
     },
     "api": {
         "title": "Etapas para criar uma chave da API",
@@ -242,6 +243,15 @@
         "usage": "Uso",
         "enter the existing password": "Digite a senha existente",
         "enter the new password": "Digite a nova senha",
-        "reenter the new password": "Reveste a nova senha"
+        "reenter the new password": "Reveste a nova senha",
+        "disable": "Desativar",
+        "console instance": "Instância do console",
+        "console type": "Tipo de console",
+        "console time": "Tempo de console",
+        "disable time": "Desativar o tempo",
+        "disabled the current console instance": "Desativou a instância atual do console",
+        "instance page": "Página da instância",
+        "active console": "Console ativo",
+        "ends": "termina"
     }
 }

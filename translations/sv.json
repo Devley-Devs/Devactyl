@@ -62,7 +62,8 @@
         "invalid_api": "Fick en ogiltig API -nyckeltagning",
         "key_missing": "Länk ditt pterodactyl -panelkonto med botten",
         "other_user_server": "Du kan inte styra annan användares server",
-        "admin_invalid_api": "Fick en ogiltig API -nyckelförändring i"
+        "admin_invalid_api": "Fick en ogiltig API -nyckelförändring i",
+        "no_instance": "För närvarande finns det inga aktiva konsolinstanser associerade med ditt konto"
     },
     "api": {
         "title": "Steg för att skapa en API -nyckel",
@@ -242,6 +243,15 @@
         "usage": "Användande",
         "enter the existing password": "Ange det befintliga lösenordet",
         "enter the new password": "Ange det nya lösenordet",
-        "reenter the new password": "Ange det nya lösenordet igen"
+        "reenter the new password": "Ange det nya lösenordet igen",
+        "disable": "Inaktivera",
+        "console instance": "Konsolinstans",
+        "console type": "Konsoltyp",
+        "console time": "Konsoltid",
+        "disable time": "Inaktivera tid",
+        "disabled the current console instance": "Inaktiverad den aktuella konsolinstansen",
+        "instance page": "Instans sida",
+        "active console": "Aktiv konsol",
+        "ends": "ändar"
     }
 }

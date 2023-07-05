@@ -62,7 +62,8 @@
         "invalid_api": "Punya pengambilan kunci API yang tidak valid",
         "key_missing": "tautkan akun panel pterodactyl Anda dengan bot",
         "other_user_server": "Anda tidak dapat mengontrol server pengguna lain",
-        "admin_invalid_api": "Mendapat perubahan kunci API yang tidak valid"
+        "admin_invalid_api": "Mendapat perubahan kunci API yang tidak valid",
+        "no_instance": "Saat ini tidak ada contoh konsol aktif yang terkait dengan akun Anda"
     },
     "api": {
         "title": "Langkah untuk Membuat Kunci API",
@@ -242,6 +243,15 @@
         "usage": "Penggunaan",
         "enter the existing password": "Masukkan kata sandi yang ada",
         "enter the new password": "Masukkan Kata Sandi Baru",
-        "reenter the new password": "Masuk kembali ke kata sandi baru"
+        "reenter the new password": "Masuk kembali ke kata sandi baru",
+        "disable": "Cacat",
+        "console instance": "Instance konsol",
+        "console type": "Jenis konsol",
+        "console time": "Waktu konsol",
+        "disable time": "Nonaktifkan waktu",
+        "disabled the current console instance": "Menonaktifkan instance konsol saat ini",
+        "instance page": "Halaman instan",
+        "active console": "Konsol aktif",
+        "ends": "berakhir"
     }
 }

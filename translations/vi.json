@@ -62,7 +62,8 @@
         "invalid_api": "Có một khóa API không hợp lệ",
         "key_missing": "Liên kết tài khoản bảng điều khiển pterodactyl của bạn với bot",
         "other_user_server": "Bạn không thể kiểm soát máy chủ của người dùng khác",
-        "admin_invalid_api": "Có một thay đổi khóa API không hợp lệ trong"
+        "admin_invalid_api": "Có một thay đổi khóa API không hợp lệ trong",
+        "no_instance": "Hiện tại không có trường hợp bảng điều khiển hoạt động nào được liên kết với tài khoản của bạn"
     },
     "api": {
         "title": "Các bước để tạo khóa API",
@@ -242,6 +243,15 @@
         "usage": "Cách sử dụng",
         "enter the existing password": "Nhập mật khẩu hiện có",
         "enter the new password": "Nhập mật khẩu mới",
-        "reenter the new password": "Làm lại mật khẩu mới"
+        "reenter the new password": "Làm lại mật khẩu mới",
+        "disable": "Vô hiệu hóa",
+        "console instance": "Ví dụ console",
+        "console type": "Loại bảng điều khiển",
+        "console time": "Thời gian console",
+        "disable time": "Tắt thời gian",
+        "disabled the current console instance": "Đã vô hiệu hóa phiên bản giao diện điều khiển hiện tại",
+        "instance page": "Trang ví dụ",
+        "active console": "Bảng điều khiển hoạt động",
+        "ends": "kết thúc"
     }
 }

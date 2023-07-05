@@ -62,7 +62,8 @@
         "invalid_api": "유효하지 않은 API 키를 얻었습니다",
         "key_missing": "pterodactyl 패널 계정을 봇과 연결하십시오.",
         "other_user_server": "다른 사용자의 서버를 제어 할 수 없습니다",
-        "admin_invalid_api": "유효하지 않은 API 키 변경이 있습니다"
+        "admin_invalid_api": "유효하지 않은 API 키 변경이 있습니다",
+        "no_instance": "현재 귀하의 계정과 관련된 활성 콘솔 인스턴스가 없습니다."
     },
     "api": {
         "title": "API 키를 만들기위한 단계",
@@ -242,6 +243,15 @@
         "usage": "용법",
         "enter the existing password": "기존 비밀번호를 입력하십시오",
         "enter the new password": "새 비밀번호를 입력하십시오",
-        "reenter the new password": "새 비밀번호를 다시 입력하십시오"
+        "reenter the new password": "새 비밀번호를 다시 입력하십시오",
+        "disable": "장애를 입히다",
+        "console instance": "콘솔 인스턴스",
+        "console type": "콘솔 유형",
+        "console time": "콘솔 시간",
+        "disable time": "시간을 비활성화합니다",
+        "disabled the current console instance": "현재 콘솔 인스턴스를 비활성화했습니다",
+        "instance page": "인스턴스 페이지",
+        "active console": "활성 콘솔",
+        "ends": "끝"
     }
 }

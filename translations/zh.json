@@ -62,7 +62,8 @@
         "invalid_api": "有一个无效的API键",
         "key_missing": "链接您的翼手式面板帐户与机器人",
         "other_user_server": "您无法控制其他用户的服务器",
-        "admin_invalid_api": "有无效的API密钥更改"
+        "admin_invalid_api": "有无效的API密钥更改",
+        "no_instance": "目前没有与您的帐户相关的主动控制台实例"
     },
     "api": {
         "title": "创建API密钥的步骤",
@@ -242,6 +243,15 @@
         "usage": "用法",
         "enter the existing password": "输入现有密码",
         "enter the new password": "输入新密码",
-        "reenter the new password": "重新输入新密码"
+        "reenter the new password": "重新输入新密码",
+        "disable": "禁用",
+        "console instance": "控制台实例",
+        "console type": "控制台类型",
+        "console time": "控制台时间",
+        "disable time": "禁用时间",
+        "disabled the current console instance": "禁用当前控制台实例",
+        "instance page": "实例页面",
+        "active console": "主动控制台",
+        "ends": "结束"
     }
 }

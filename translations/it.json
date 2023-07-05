@@ -62,7 +62,8 @@
         "invalid_api": "Ho ottenuto una chiave di chiave API non valida",
         "key_missing": "Collega il tuo account pannello pterodattilo con il bot",
         "other_user_server": "Non è possibile controllare il server di un altro utente",
-        "admin_invalid_api": "Ha ottenuto una modifica della chiave API non valida in"
+        "admin_invalid_api": "Ha ottenuto una modifica della chiave API non valida in",
+        "no_instance": "Attualmente non ci sono istanze di console attive associate al tuo account"
     },
     "api": {
         "title": "Passaggi per creare una chiave API",
@@ -242,6 +243,15 @@
         "usage": "Utilizzo",
         "enter the existing password": "Immettere la password esistente",
         "enter the new password": "Immettere la nuova password",
-        "reenter the new password": "Rientrare nella nuova password"
+        "reenter the new password": "Rientrare nella nuova password",
+        "disable": "disattivare",
+        "console instance": "Istanza della console",
+        "console type": "Tipo di console",
+        "console time": "Tempo di console",
+        "disable time": "Disabilita tempo",
+        "disabled the current console instance": "Disabilitato l'istanza della console corrente",
+        "instance page": "Pagina di istanza",
+        "active console": "Console attiva",
+        "ends": "finisce"
     }
 }

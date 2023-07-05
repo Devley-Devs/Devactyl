@@ -62,7 +62,8 @@
         "invalid_api": "Ich habe einen ungültigen API -Schlüssel",
         "key_missing": "Verknüpfen Sie Ihr Pterodactyl -Panel -Konto mit dem Bot",
         "other_user_server": "Sie können den Server anderer Benutzer nicht steuern",
-        "admin_invalid_api": "Ich habe eine ungültige Änderung der API -Schlüssel in erhalten"
+        "admin_invalid_api": "Ich habe eine ungültige Änderung der API -Schlüssel in erhalten",
+        "no_instance": "Derzeit sind mit Ihrem Konto keine aktiven Konsoleninstanzen zugeordnet"
     },
     "api": {
         "title": "Schritte zum Erstellen eines API -Schlüssels",
@@ -242,6 +243,15 @@
         "usage": "Verwendung",
         "enter the existing password": "Geben Sie das vorhandene Passwort ein",
         "enter the new password": "Geben Sie das neue Passwort ein",
-        "reenter the new password": "Geben Sie das neue Passwort erneut ein"
+        "reenter the new password": "Geben Sie das neue Passwort erneut ein",
+        "disable": "Deaktivieren",
+        "console instance": "Konsoleninstanz",
+        "console type": "Konsolentyp",
+        "console time": "Konsolenzeit",
+        "disable time": "Zeit deaktivieren",
+        "disabled the current console instance": "Deaktiviert die aktuelle Konsoleninstanz",
+        "instance page": "Instanzseite",
+        "active console": "Aktive Konsole",
+        "ends": "endet"
     }
 }
