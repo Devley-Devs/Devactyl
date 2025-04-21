@@ -5,4 +5,4 @@
 
 ### Translation Files
 
-- If you Find any Translation Mistakes then Make a Pull Request after fixing the Mistakes with the translations.
+- If you find any translation mistakes, make a pull request after fixing the mistakes with the translations.
