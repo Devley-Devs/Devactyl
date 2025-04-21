@@ -231,7 +231,7 @@
         "loading the persistent server controlable embed": "Loading the Persistent Server Controlable Embed...",
         "you are not allowed to use this command": "You are not allowed to use this command!",
         "there's no users registered with the panel": "There are no users registered on the panel.",
-        "there's no user with this input": "There's no Uuser with this input.",
+        "there's no user with this input": "There's no user with this input.",
         "an error occured while reloading the config file": "An error occured while reloading the config file!",
         "successfully reloaded the config file": "Successfully reloaded the config file!",
         "offline": "Offline",
