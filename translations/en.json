@@ -277,7 +277,7 @@
         "backups": "Get a list of backups associated with the server.",
         "databases": "Get the list of databases associated with the server.",
         "subusers": "Get the list of users associated with the server.",
-        "sftp": "Get the list of backups associated with the server.",
+        "sftp": "Get the SFTP details associated with the server.",
         "link": "Link your Pterodactyl Panel Account with the bot.",
         "details": "Get the Account Details of the Linked API key.",
         "update_email": "Update the Account Email Address.",
