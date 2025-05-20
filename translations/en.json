@@ -63,7 +63,8 @@
         "key_missing": "Link your Pterodactyl Panel Account with the Bot.",
         "other_user_server": "You cannot control other people's server!",
         "admin_invalid_api": "Got an invalid API key in the config! Please change it in",
-        "no_instance": "Currently, there are no Active Console Instances associated with your account."
+        "no_instance": "Currently, there are no Active Console Instances associated with your account.",
+        "instance_missing": "This Console Instance is missing in the Persistent List"
     },
     "api": {
         "title": "Steps to Create an API key:",
@@ -258,7 +259,9 @@
         "stats": "Stats",
         "version": "Version",
         "latency": "Latency",
-        "account": "Account"
+        "account": "Account",
+        "Webhook creation failed": "Webhook creation failed",
+        "Please assign administrator permissions to the bot": "Please assign administrator permissions to the bot"
     },
     "help": {
         "server": "Consists of all commands related to Server",
