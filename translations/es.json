@@ -290,6 +290,7 @@
         "server_details": "Obtén detalles sobre un servidor específico.",
         "create_user": "Crea un usuario del Panel Pterodactyl.",
         "user_details": "Obtén detalles sobre un usuario específico.",
-        "option.show_buttons": "Mostrar / Ocultar botones controlables en el embed."
+        "option.show_buttons": "Mostrar / Ocultar botones controlables en el embed.",
+        "option.show_logs": "Mostrar / Ocultar registros en incrustación"
     }
 }

@@ -290,6 +290,7 @@
         "server_details": "特定のサーバーに関する詳細を取得します。",
         "create_user": "Pterodactylパネルユーザーを作成します。",
         "user_details": "特定のユーザーに関する詳細を取得します。",
-        "option.show_buttons": "埋め込みに制御可能なボタンを表示/非表示にします。"
+        "option.show_buttons": "埋め込みに制御可能なボタンを表示/非表示にします。",
+        "option.show_logs": "埋め込みでログを表示 / 非表示"
     }
 }

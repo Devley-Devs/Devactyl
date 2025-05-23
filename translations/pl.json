@@ -290,6 +290,7 @@
         "server_details": "Pobierz szczegóły o konkretnym serwerze.",
         "create_user": "Utwórz użytkownika panelu Pterodactyl.",
         "user_details": "Pobierz szczegóły o konkretnym użytkowniku.",
-        "option.show_buttons": "Pokaż/Ukryj przyciski sterujące w osadzonym elemencie."
+        "option.show_buttons": "Pokaż/Ukryj przyciski sterujące w osadzonym elemencie.",
+        "option.show_logs": "Pokaż / Ukryj logi w osadzeniu"
     }
 }

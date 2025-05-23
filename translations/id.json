@@ -290,6 +290,7 @@
         "server_details": "Dapatkan detail tentang server tertentu.",
         "create_user": "Buat pengguna Panel Pterodactyl.",
         "user_details": "Dapatkan detail tentang pengguna tertentu.",
-        "option.show_buttons": "Tampilkan / Sembunyikan Tombol yang Dapat Dikontrol di embed."
+        "option.show_buttons": "Tampilkan / Sembunyikan Tombol yang Dapat Dikontrol di embed.",
+        "option.show_logs": "Tampilkan / Sembunyikan Log dalam Embed"
     }
 }

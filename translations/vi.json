@@ -290,6 +290,7 @@
         "server_details": "Lấy chi tiết về một máy chủ cụ thể.",
         "create_user": "Tạo người dùng bảng điều khiển Pterodactyl.",
         "user_details": "Lấy chi tiết về một người dùng cụ thể.",
-        "option.show_buttons": "Hiển thị / Ẩn các nút điều khiển trong giao diện."
+        "option.show_buttons": "Hiển thị / Ẩn các nút điều khiển trong giao diện.",
+        "option.show_logs": "Hiển thị / Ẩn nhật ký trong nhúng"
     }
 }

@@ -290,6 +290,7 @@
         "server_details": "获取特定服务器的详情。",
         "create_user": "创建Pterodactyl面板用户。",
         "user_details": "获取特定用户的详情。",
-        "option.show_buttons": "在嵌入中显示/隐藏可控按钮。"
+        "option.show_buttons": "在嵌入中显示/隐藏可控按钮。",
+        "option.show_logs": "在嵌入中显示 / 隐藏日志"
     }
 }

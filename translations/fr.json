@@ -290,6 +290,7 @@
         "server_details": "Obtenez des détails sur un serveur spécifique.",
         "create_user": "Créez un utilisateur du panneau Pterodactyl.",
         "user_details": "Obtenez des détails sur un utilisateur spécifique.",
-        "option.show_buttons": "Afficher / Masquer les boutons contrôlables dans l'embed."
+        "option.show_buttons": "Afficher / Masquer les boutons contrôlables dans l'embed.",
+        "option.show_logs": "Afficher / Masquer les journaux dans l'intégration"
     }
 }

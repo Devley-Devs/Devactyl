@@ -290,6 +290,7 @@
         "server_details": "Få detaljer om en specifik server.",
         "create_user": "Skapa en Pterodactyl-panelanvändare.",
         "user_details": "Få detaljer om en specifik användare.",
-        "option.show_buttons": "Visa / Dölj kontrollerbara knappar i inbäddningen."
+        "option.show_buttons": "Visa / Dölj kontrollerbara knappar i inbäddningen.",
+        "option.show_logs": "Visa / Dölj loggar i inbäddning"
     }
 }

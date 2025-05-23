@@ -290,6 +290,7 @@
         "server_details": "Get details about a specific server.",
         "create_user": "Create a Pterodactyl Panel user.",
         "user_details": "Get details about a specific user.",
-        "option.show_buttons": "Show / Hide Controllable Buttons in the embed."
+        "option.show_buttons": "Show / Hide Controllable Buttons in the embed.",
+        "option.show_logs": "Show / Hide Logs in Embed"
     }
 }

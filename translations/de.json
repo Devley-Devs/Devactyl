@@ -290,6 +290,7 @@
         "server_details": "Erhalten Sie Details über einen bestimmten Server.",
         "create_user": "Erstellen Sie einen Pterodactyl Panel-Benutzer.",
         "user_details": "Erhalten Sie Details über einen bestimmten Benutzer.",
-        "option.show_buttons": "Steuerbare Schaltflächen im Embed anzeigen/ausblenden."
+        "option.show_buttons": "Steuerbare Schaltflächen im Embed anzeigen/ausblenden.",
+        "option.show_logs": "Protokolle in Einbettung anzeigen / ausblenden"
     }
 }

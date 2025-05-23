@@ -290,6 +290,7 @@
         "server_details": "특정 서버에 대한 세부 정보를 가져옵니다.",
         "create_user": "Pterodactyl 패널 사용자를 생성합니다.",
         "user_details": "특정 사용자에 대한 세부 정보를 가져옵니다.",
-        "option.show_buttons": "임베드에서 제어 가능한 버튼 표시/숨기기."
+        "option.show_buttons": "임베드에서 제어 가능한 버튼 표시/숨기기.",
+        "option.show_logs": "임베드에서 로그 표시 / 숨기기"
     }
 }
