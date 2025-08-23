@@ -297,6 +297,7 @@
         "server_details": "Dapatkan detail tentang server tertentu.",
         "create_user": "Buat pengguna Pterodactyl Panel.",
         "user_details": "Dapatkan detail tentang pengguna tertentu.",
+        "create_server": "Buat server baru untuk pengguna yang dipilih",
         "option.show_buttons": "Tampilkan / Sembunyikan Tombol Kontrol dalam embed.",
         "option.show_logs": "Tampilkan / Sembunyikan Log dalam Embed",
         "option.server": "Pilih server dari daftar ini.",

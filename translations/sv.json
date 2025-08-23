@@ -297,6 +297,7 @@
         "server_details": "Få detaljer om en specifik server.",
         "create_user": "Skapa en Pterodactyl Panel-användare.",
         "user_details": "Få detaljer om en specifik användare.",
+        "create_server": "Skapa en ny server för en vald användare",
         "option.show_buttons": "Visa / dölj kontrollerbara knappar i inbäddningen.",
         "option.show_logs": "Visa / dölj loggar i inbäddningen",
         "option.server": "Välj en server från den här listan.",

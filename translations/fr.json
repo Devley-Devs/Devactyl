@@ -297,6 +297,7 @@
         "server_details": "Obtenir des détails sur un serveur spécifique.",
         "create_user": "Créer un utilisateur Pterodactyl Panel.",
         "user_details": "Obtenir des détails sur un utilisateur spécifique.",
+        "create_server": "Créer un nouveau serveur pour un utilisateur sélectionné",
         "option.show_buttons": "Afficher / Masquer les boutons contrôlables dans l'intégration.",
         "option.show_logs": "Afficher / Masquer les journaux dans l'intégration",
         "option.server": "Sélectionner un serveur dans cette liste.",

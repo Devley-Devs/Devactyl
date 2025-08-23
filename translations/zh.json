@@ -298,6 +298,7 @@
         "server_details": "获取有关特定服务器的详细信息。",
         "create_user": "创建 Pterodactyl 面板用户。",
         "user_details": "获取有关特定用户的详细信息。",
+        "create_server": "为选定的用户创建一个新服务器",
         "option.show_buttons": "显示/隐藏嵌入中的可控按钮。",
         "option.show_logs": "显示/隐藏嵌入中的日志",
         "option.server": "从此列表中选择一个服务器。",

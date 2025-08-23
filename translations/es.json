@@ -297,6 +297,7 @@
         "server_details": "Obtener detalles sobre un servidor específico.",
         "create_user": "Crear un usuario del Panel Pterodactyl.",
         "user_details": "Obtener detalles sobre un usuario específico.",
+        "create_server": "Crear un nuevo servidor para un usuario seleccionado",
         "option.show_buttons": "Mostrar / ocultar botones controlables en el embed.",
         "option.show_logs": "Mostrar / ocultar registros en el embed",
         "option.server": "Selecciona un servidor de esta lista.",

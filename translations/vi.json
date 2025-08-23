@@ -297,6 +297,7 @@
         "server_details": "Nhận chi tiết về một máy chủ cụ thể.",
         "create_user": "Tạo một người dùng Pterodactyl Panel.",
         "user_details": "Nhận chi tiết về một người dùng cụ thể.",
+        "create_server": "Tạo máy chủ mới cho người dùng đã chọn",
         "option.show_buttons": "Hiển thị / Ẩn các nút điều khiển trong nhúng.",
         "option.show_logs": "Hiển thị / Ẩn Nhật ký trong Nhúng",
         "option.server": "Chọn một máy chủ từ danh sách này.",

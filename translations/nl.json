@@ -297,6 +297,7 @@
         "server_details": "Krijg details over een specifieke server.",
         "create_user": "Maak een Pterodactyl Panel gebruiker aan.",
         "user_details": "Krijg details over een specifieke gebruiker.",
+        "create_server": "Een nieuwe server maken voor een geselecteerde gebruiker",
         "option.show_buttons": "Toon / Verberg Bestuurbare Knoppen in de embed.",
         "option.show_logs": "Toon / Verberg Logs in Embed",
         "option.server": "Selecteer een server uit deze lijst.",

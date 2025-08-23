@@ -297,6 +297,7 @@
         "server_details": "특정 서버에 대한 세부정보를 가져옵니다.",
         "create_user": "Pterodactyl 패널 사용자를 생성합니다.",
         "user_details": "특정 사용자에 대한 세부정보를 가져옵니다.",
+        "create_server": "선택한 사용자를 위해 새 서버 생성",
         "option.show_buttons": "임베드에서 제어 가능한 버튼을 표시/숨김합니다.",
         "option.show_logs": "임베드에서 로그를 표시/숨김합니다",
         "option.server": "이 목록에서 서버를 선택하세요.",

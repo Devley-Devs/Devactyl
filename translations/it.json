@@ -297,6 +297,7 @@
         "server_details": "Ottieni dettagli su un server specifico.",
         "create_user": "Crea un utente Pterodactyl Panel.",
         "user_details": "Ottieni dettagli su un utente specifico.",
+        "create_server": "Crea un nuovo server per un utente selezionato",
         "option.show_buttons": "Mostra / Nascondi Pulsanti Controllabili nell'embed.",
         "option.show_logs": "Mostra / Nascondi Log nell'Embed",
         "option.server": "Seleziona un server da questo elenco.",
