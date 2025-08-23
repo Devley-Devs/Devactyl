@@ -64,7 +64,8 @@
         "other_user_server": "You cannot control other people's server!",
         "admin_invalid_api": "Got an invalid API key in the config! Please change it in",
         "no_instance": "Currently, there are no Active Console Instances associated with your account.",
-        "instance_missing": "This Console Instance is missing in the Persistent List"
+        "instance_missing": "This Console Instance is missing in the Persistent List",
+        "file_too_large": "This file is too large to be edited"
     },
     "api": {
         "title": "Steps to Create an API key:",
@@ -261,16 +262,22 @@
         "latency": "Latency",
         "account": "Account",
         "Webhook creation failed": "Webhook creation failed",
-        "Please assign administrator permissions to the bot": "Please assign administrator permissions to the bot"
+        "Please assign administrator permissions to the bot": "Please assign administrator permissions to the bot",
+        "Successfully created the Server": "Successfully created the Server",
+        "There's no Egg available with the Panel": "There's no Egg available with the Panel",
+        "There's no Port available on the Node": "There's no Port available on the Node",
+        "Edit": "Edit",
+        "Create Server": "Create Server",
+        "Server Created": "Server Created",
+        "Select a Docker Image": "Select a Docker Image",
+        "There's no Port with this Option": "There's no Port with this Option",
+        "There's no Egg with this Option": "There's no Egg with this Option",
+        "There's no Server with this Option": "There's no Server with this Option"
     },
     "help": {
         "server": "Consists of all commands related to Server",
         "account": "Consists of all commands related to Account",
         "admin": "Consists of all commands which can be only used by an admin",
-        "option.server": "Select a server from this list.",
-        "option.user": "Select a user to get details about that user.",
-        "option.send_in": "Select the way to send the reponse from the bot.",
-        "option.signal": "Select the way to send the Server Controlable Embed.",
         "list": "Get a list of servers associated with your account.",
         "control": "Get an embed with controllable buttons and server usage graphs.",
         "power": "Send a power signal to the server.",
@@ -291,6 +298,21 @@
         "create_user": "Create a Pterodactyl Panel user.",
         "user_details": "Get details about a specific user.",
         "option.show_buttons": "Show / Hide Controllable Buttons in the embed.",
-        "option.show_logs": "Show / Hide Logs in Embed"
+        "option.show_logs": "Show / Hide Logs in Embed",
+        "option.server": "Select a server from this list.",
+        "option.user": "Select a user to get details about that user.",
+        "option.send_in": "Select the way to send the reponse from the bot.",
+        "option.signal": "Select the way to send the Server Controlable Embed.",
+        "option.user_server": "Select the user who will own the new server",
+        "option.name": "Enter a name for the new server",
+        "option.description": "Enter a description for the new server",
+        "option.cpu": "Set the CPU limit (in percentage) for the server",
+        "option.memory": "Set the RAM limit (in MB) for the server",
+        "option.disk": "Set the disk storage limit (in MB) for the server",
+        "option.port": "Select the Port for this new server",
+        "option.egg": "Select the Egg for this new server",
+        "option.database_limit": "Set the maximum number of databases allowed for the server",
+        "option.allocation_limit": "Set the maximum number of network allocations for the server",
+        "option.backup_limit": "Set the maximum number of backups allowed for the server"
     }
 }
