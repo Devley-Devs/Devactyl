@@ -272,7 +272,21 @@
         "Select a Docker Image": "Wybierz obraz Docker",
         "There's no Port with this Option": "Nie ma portu z tą opcją",
         "There's no Egg with this Option": "Nie ma jaja z tą opcją",
-        "There's no Server with this Option": "Nie ma serwera z tą opcją"
+        "There's no Server with this Option": "Nie ma serwera z tą opcją",
+        "message link": "Wiadomość Link",
+        "role access": "Dostęp do roli",
+        "webhook creation failed": "Tworzenie webhooka nie powiodło się",
+        "please assign administrator permissions to the bot": "Proszę o nadanie botowi uprawnień administratora",
+        "successfully created the server": "Pomyślnie utworzono serwer",
+        "there's no egg available with the panel": "Z panelem nie jest dostępne żadne jajko",
+        "there's no port available on the node": "W węźle Node nie jest dostępny żaden port",
+        "edit": "Redagować",
+        "create server": "Utwórz serwer",
+        "server created": "Serwer utworzony",
+        "select a docker image": "Wybierz obraz platformy Docker",
+        "there's no port with this option": "W przypadku tej opcji nie ma portu",
+        "there's no egg with this option": "W tej opcji nie ma Jajka",
+        "there's no server with this option": "Nie ma serwera z tą opcją"
     },
     "help": {
         "server": "Zawiera wszystkie polecenia związane z serwerem",
@@ -314,6 +328,8 @@
         "option.egg": "Wybierz jajo dla tego nowego serwera",
         "option.database_limit": "Ustaw maksymalną liczbę baz danych dozwolonych dla serwera",
         "option.allocation_limit": "Ustaw maksymalną liczbę alokacji sieciowych dla serwera",
-        "option.backup_limit": "Ustaw maksymalną liczbę kopii zapasowych dozwolonych dla serwera"
+        "option.backup_limit": "Ustaw maksymalną liczbę kopii zapasowych dozwolonych dla serwera",
+        "option.show_ip": "Pokaż/ukryj adres IP w osadzeniu",
+        "option.role_access": "Dodatkowy dostęp do roli dla tego kontrolowanego osadzania."
     }
 }

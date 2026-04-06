@@ -272,7 +272,21 @@
         "Select a Docker Image": "Chọn một Hình ảnh Docker",
         "There's no Port with this Option": "Không có Cổng nào với Tùy chọn này",
         "There's no Egg with this Option": "Không có Egg nào với Tùy chọn này",
-        "There's no Server with this Option": "Không có Máy chủ nào với Tùy chọn này"
+        "There's no Server with this Option": "Không có Máy chủ nào với Tùy chọn này",
+        "message link": "Liên kết tin nhắn",
+        "role access": "Quyền truy cập vai trò",
+        "webhook creation failed": "Tạo webhook không thành công",
+        "please assign administrator permissions to the bot": "Vui lòng chỉ định quyền quản trị viên cho bot",
+        "successfully created the server": "Đã tạo thành công máy chủ",
+        "there's no egg available with the panel": "Không có Trứng nào có sẵn trong Bảng điều khiển",
+        "there's no port available on the node": "Không có Cổng nào trên Nút",
+        "edit": "Biên tập",
+        "create server": "Tạo máy chủ",
+        "server created": "Máy chủ đã được tạo",
+        "select a docker image": "Chọn một hình ảnh Docker",
+        "there's no port with this option": "Không có cổng nào với tùy chọn này",
+        "there's no egg with this option": "Không có Trứng với Tùy chọn này",
+        "there's no server with this option": "Không có máy chủ nào có tùy chọn này"
     },
     "help": {
         "server": "Bao gồm tất cả các lệnh liên quan đến Máy chủ",
@@ -314,6 +328,8 @@
         "option.egg": "Chọn Egg cho máy chủ mới này",
         "option.database_limit": "Đặt số lượng cơ sở dữ liệu tối đa được phép cho máy chủ",
         "option.allocation_limit": "Đặt số lượng phân bổ mạng tối đa cho máy chủ",
-        "option.backup_limit": "Đặt số lượng bản sao lưu tối đa được phép cho máy chủ"
+        "option.backup_limit": "Đặt số lượng bản sao lưu tối đa được phép cho máy chủ",
+        "option.show_ip": "Hiển thị/Ẩn IP trong Nhúng",
+        "option.role_access": "Quyền truy cập vai trò bổ sung cho phần nhúng có thể kiểm soát này."
     }
 }

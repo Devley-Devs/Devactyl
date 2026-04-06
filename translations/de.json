@@ -272,7 +272,21 @@
         "Select a Docker Image": "Docker-Image auswählen",
         "There's no Port with this Option": "Es gibt keinen Port mit dieser Option",
         "There's no Egg with this Option": "Es gibt kein Egg mit dieser Option",
-        "There's no Server with this Option": "Es gibt keinen Server mit dieser Option"
+        "There's no Server with this Option": "Es gibt keinen Server mit dieser Option",
+        "message link": "Nachrichtenlink",
+        "role access": "Rollenzugriff",
+        "webhook creation failed": "Die Erstellung des Webhooks ist fehlgeschlagen",
+        "please assign administrator permissions to the bot": "Bitte weisen Sie dem Bot Administratorrechte zu",
+        "successfully created the server": "Der Server wurde erfolgreich erstellt",
+        "there's no egg available with the panel": "Für das Panel ist kein Ei verfügbar",
+        "there's no port available on the node": "Auf dem Knoten ist kein Port verfügbar",
+        "edit": "Bearbeiten",
+        "create server": "Server erstellen",
+        "server created": "Server erstellt",
+        "select a docker image": "Wählen Sie ein Docker-Image aus",
+        "there's no port with this option": "Bei dieser Option gibt es keinen Port",
+        "there's no egg with this option": "Bei dieser Option gibt es kein Ei",
+        "there's no server with this option": "Es gibt keinen Server mit dieser Option"
     },
     "help": {
         "server": "Besteht aus allen Befehlen im Zusammenhang mit Server",
@@ -314,6 +328,8 @@
         "option.egg": "Das Egg für diesen neuen Server auswählen",
         "option.database_limit": "Die maximale Anzahl der erlaubten Datenbanken für den Server festlegen",
         "option.allocation_limit": "Die maximale Anzahl der Netzwerkzuweisungen für den Server festlegen",
-        "option.backup_limit": "Die maximale Anzahl der erlaubten Backups für den Server festlegen"
+        "option.backup_limit": "Die maximale Anzahl der erlaubten Backups für den Server festlegen",
+        "option.show_ip": "IP beim Einbetten anzeigen/ausblenden",
+        "option.role_access": "Zusätzlicher Rollenzugriff für diese steuerbare Einbettung."
     }
 }

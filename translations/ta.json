@@ -272,7 +272,21 @@
         "Select a Docker Image": "ஒரு டாக்கர் இமேஜைத் தேர்ந்தெடுக்கவும்",
         "There's no Port with this Option": "இந்த விருப்பத்தில் போர்ட் இல்லை",
         "There's no Egg with this Option": "இந்த விருப்பத்தில் Egg இல்லை",
-        "There's no Server with this Option": "இந்த விருப்பத்தில் சர்வர் இல்லை"
+        "There's no Server with this Option": "இந்த விருப்பத்தில் சர்வர் இல்லை",
+        "message link": "செய்தி இணைப்பு",
+        "role access": "பங்கு அணுகல்",
+        "webhook creation failed": "Webhook உருவாக்கம் தோல்வியடைந்தது",
+        "please assign administrator permissions to the bot": "போட்டிற்கு நிர்வாகி அனுமதிகளை வழங்கவும்",
+        "successfully created the server": "சர்வர் வெற்றிகரமாக உருவாக்கப்பட்டது",
+        "there's no egg available with the panel": "பேனலுடன் முட்டை எதுவும் இல்லை",
+        "there's no port available on the node": "முனையில் போர்ட் எதுவும் இல்லை",
+        "edit": "திருத்தவும்",
+        "create server": "சேவையகத்தை உருவாக்கவும்",
+        "server created": "சர்வர் உருவாக்கப்பட்டது",
+        "select a docker image": "டோக்கர் படத்தைத் தேர்ந்தெடுக்கவும்",
+        "there's no port with this option": "இந்த விருப்பத்துடன் போர்ட் இல்லை",
+        "there's no egg with this option": "இந்த விருப்பத்தில் முட்டை இல்லை",
+        "there's no server with this option": "இந்த விருப்பத்துடன் சேவையகம் இல்லை"
     },
     "help": {
         "server": "சர்வர் தொடர்பான அனைத்து கட்டளைகளும் இதில் உள்ளன",
@@ -314,6 +328,8 @@
         "option.egg": "இந்த புதிய சர்வருக்கான Egg-ஐத் தேர்ந்தெடுக்கவும்",
         "option.database_limit": "சர்வருக்கு அனுமதிக்கப்பட்ட டேட்டாபேஸ்களின் அதிகபட்ச எண்ணிக்கையை அமைக்கவும்",
         "option.allocation_limit": "சர்வருக்கான நெட்வொர்க் அலோகேஷன்களின் அதிகபட்ச எண்ணிக்கையை அமைக்கவும்",
-        "option.backup_limit": "சர்வருக்கு அனுமதிக்கப்பட்ட பேக்கப்களின் அதிகபட்ச எண்ணிக்கையை அமைக்கவும்"
+        "option.backup_limit": "சர்வருக்கு அனுமதிக்கப்பட்ட பேக்கப்களின் அதிகபட்ச எண்ணிக்கையை அமைக்கவும்",
+        "option.show_ip": "உட்பொதிவில் ஐபியைக் காட்டு / மறை",
+        "option.role_access": "இந்த கட்டுப்படுத்தக்கூடிய உட்பொதிக்கான கூடுதல் பங்கு அணுகல்."
     }
 }

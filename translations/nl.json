@@ -272,7 +272,21 @@
         "Select a Docker Image": "Selecteer een Docker Image",
         "There's no Port with this Option": "Er is geen Poort met deze Optie",
         "There's no Egg with this Option": "Er is geen Egg met deze Optie",
-        "There's no Server with this Option": "Er is geen Server met deze Optie"
+        "There's no Server with this Option": "Er is geen Server met deze Optie",
+        "message link": "Berichtlink",
+        "role access": "Roltoegang",
+        "webhook creation failed": "Het maken van een webhook is mislukt",
+        "please assign administrator permissions to the bot": "Wijs beheerdersrechten toe aan de bot",
+        "successfully created the server": "De server is succesvol aangemaakt",
+        "there's no egg available with the panel": "Er is geen ei beschikbaar bij het paneel",
+        "there's no port available on the node": "Er is geen poort beschikbaar op het knooppunt",
+        "edit": "Bewerking",
+        "create server": "Server maken",
+        "server created": "Server gemaakt",
+        "select a docker image": "Selecteer een Docker-afbeelding",
+        "there's no port with this option": "Er is geen poort bij deze optie",
+        "there's no egg with this option": "Er is geen ei bij deze optie",
+        "there's no server with this option": "Er is geen server met deze optie"
     },
     "help": {
         "server": "Bevat alle commando's gerelateerd aan Server",
@@ -314,6 +328,8 @@
         "option.egg": "Selecteer de Egg voor deze nieuwe server",
         "option.database_limit": "Stel het maximum aantal databases in dat is toegestaan voor de server",
         "option.allocation_limit": "Stel het maximum aantal netwerktoewijzingen in voor de server",
-        "option.backup_limit": "Stel het maximum aantal back-ups in dat is toegestaan voor de server"
+        "option.backup_limit": "Stel het maximum aantal back-ups in dat is toegestaan voor de server",
+        "option.show_ip": "Toon / verberg IP in insluiten",
+        "option.role_access": "Extra roltoegang voor deze bestuurbare insluiting."
     }
 }

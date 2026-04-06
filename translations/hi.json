@@ -272,7 +272,21 @@
         "Select a Docker Image": "एक Docker छवि चुनें",
         "There's no Port with this Option": "इस विकल्प के साथ कोई पोर्ट नहीं है",
         "There's no Egg with this Option": "इस विकल्प के साथ कोई Egg नहीं है",
-        "There's no Server with this Option": "इस विकल्प के साथ कोई सर्वर नहीं है"
+        "There's no Server with this Option": "इस विकल्प के साथ कोई सर्वर नहीं है",
+        "message link": "संदेश लिंक",
+        "role access": "भूमिका पहुंच",
+        "webhook creation failed": "वेबहुक निर्माण विफल रहा",
+        "please assign administrator permissions to the bot": "कृपया बॉट को प्रशासकीय अनुमतियाँ प्रदान करें",
+        "successfully created the server": "सर्वर सफलतापूर्वक बनाया गया",
+        "there's no egg available with the panel": "पैनल के पास कोई अंडा उपलब्ध नहीं है",
+        "there's no port available on the node": "नोड पर कोई पोर्ट उपलब्ध नहीं है",
+        "edit": "संपादन करना",
+        "create server": "सर्वर बनाएं",
+        "server created": "सर्वर बनाया गया",
+        "select a docker image": "एक डॉकर छवि चुनें",
+        "there's no port with this option": "इस विकल्प के साथ कोई पोर्ट नहीं है",
+        "there's no egg with this option": "इस विकल्प के साथ कोई अंडा नहीं है",
+        "there's no server with this option": "इस विकल्प वाला कोई सर्वर नहीं है"
     },
     "help": {
         "server": "सर्वर से संबंधित सभी कमांड शामिल हैं",
@@ -314,6 +328,8 @@
         "option.egg": "इस नए सर्वर के लिए Egg चुनें",
         "option.database_limit": "सर्वर के लिए अनुमतित डेटाबेस की अधिकतम संख्या सेट करें",
         "option.allocation_limit": "सर्वर के लिए नेटवर्क आवंटन की अधिकतम संख्या सेट करें",
-        "option.backup_limit": "सर्वर के लिए अनुमतित बैकअप की अधिकतम संख्या सेट करें"
+        "option.backup_limit": "सर्वर के लिए अनुमतित बैकअप की अधिकतम संख्या सेट करें",
+        "option.show_ip": "एम्बेड में आईपी दिखाएँ/छिपाएँ",
+        "option.role_access": "इस नियंत्रणीय एम्बेड के लिए अतिरिक्त भूमिका पहुंच।"
     }
 }

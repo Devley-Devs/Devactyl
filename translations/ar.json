@@ -272,7 +272,21 @@
         "Select a Docker Image": "حدد صورة Docker",
         "There's no Port with this Option": "لا يوجد منفذ مع هذا الخيار",
         "There's no Egg with this Option": "لا توجد بيضة مع هذا الخيار",
-        "There's no Server with this Option": "لا يوجد خادم مع هذا الخيار"
+        "There's no Server with this Option": "لا يوجد خادم مع هذا الخيار",
+        "message link": "رابط الرسالة",
+        "role access": "الوصول إلى الدور",
+        "webhook creation failed": "فشل إنشاء الرد التلقائي على الويب",
+        "please assign administrator permissions to the bot": "يرجى تعيين أذونات المسؤول للبوت",
+        "successfully created the server": "تم إنشاء الخادم بنجاح",
+        "there's no egg available with the panel": "لا يوجد بيضة متاحة مع اللوحة",
+        "there's no port available on the node": "لا يوجد منفذ متاح على Node",
+        "edit": "يحرر",
+        "create server": "إنشاء خادم",
+        "server created": "تم إنشاء الخادم",
+        "select a docker image": "حدد صورة عامل ميناء",
+        "there's no port with this option": "لا يوجد منفذ مع هذا الخيار",
+        "there's no egg with this option": "لا يوجد بيضة مع هذا الخيار",
+        "there's no server with this option": "لا يوجد خادم بهذا الخيار"
     },
     "help": {
         "server": "يتكون من جميع الأوامر المتعلقة بالخادم",
@@ -314,6 +328,8 @@
         "option.egg": "حدد البيضة لهذا الخادم الجديد",
         "option.database_limit": "حدد الحد الأقصى لعدد قواعد البيانات المسموح بها للخادم",
         "option.allocation_limit": "حدد الحد الأقصى لعدد تخصيصات الشبكة للخادم",
-        "option.backup_limit": "حدد الحد الأقصى لعدد النسخ الاحتياطية المسموح بها للخادم"
+        "option.backup_limit": "حدد الحد الأقصى لعدد النسخ الاحتياطية المسموح بها للخادم",
+        "option.show_ip": "إظهار/إخفاء IP في التضمين",
+        "option.role_access": "الوصول إلى الدور الإضافي لهذا التضمين الذي يمكن التحكم فيه."
     }
 }

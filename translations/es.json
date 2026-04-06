@@ -272,7 +272,21 @@
         "Select a Docker Image": "Selecciona una imagen Docker",
         "There's no Port with this Option": "No hay puerto con esta opción",
         "There's no Egg with this Option": "No hay Egg con esta opción",
-        "There's no Server with this Option": "No hay servidor con esta opción"
+        "There's no Server with this Option": "No hay servidor con esta opción",
+        "message link": "Enlace de mensaje",
+        "role access": "Acceso a roles",
+        "webhook creation failed": "Falló la creación del webhook",
+        "please assign administrator permissions to the bot": "Asigne permisos de administrador al bot.",
+        "successfully created the server": "Creó exitosamente el servidor",
+        "there's no egg available with the panel": "No hay ningún Huevo disponible con el Panel",
+        "there's no port available on the node": "No hay ningún puerto disponible en el nodo",
+        "edit": "Editar",
+        "create server": "Crear servidor",
+        "server created": "Servidor creado",
+        "select a docker image": "Seleccione una imagen de Docker",
+        "there's no port with this option": "No hay ningún puerto con esta opción",
+        "there's no egg with this option": "No hay ningún huevo con esta opción",
+        "there's no server with this option": "No hay ningún servidor con esta opción"
     },
     "help": {
         "server": "Consiste en todos los comandos relacionados con el servidor",
@@ -314,6 +328,8 @@
         "option.egg": "Selecciona el Egg para este nuevo servidor",
         "option.database_limit": "Establece el número máximo de bases de datos permitidas para el servidor",
         "option.allocation_limit": "Establece el número máximo de asignaciones de red para el servidor",
-        "option.backup_limit": "Establece el número máximo de copias de seguridad permitidas para el servidor"
+        "option.backup_limit": "Establece el número máximo de copias de seguridad permitidas para el servidor",
+        "option.show_ip": "Mostrar/Ocultar IP en Insertar",
+        "option.role_access": "Acceso de rol adicional para esta inserción controlable."
     }
 }

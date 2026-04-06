@@ -272,7 +272,21 @@
         "Select a Docker Image": "Selecionar uma Imagem Docker",
         "There's no Port with this Option": "Não há porta com esta opção",
         "There's no Egg with this Option": "Não há Egg com esta opção",
-        "There's no Server with this Option": "Não há servidor com esta opção"
+        "There's no Server with this Option": "Não há servidor com esta opção",
+        "message link": "Link da mensagem",
+        "role access": "Acesso à função",
+        "webhook creation failed": "Falha na criação do webhook",
+        "please assign administrator permissions to the bot": "Atribua permissões de administrador ao bot",
+        "successfully created the server": "Servidor criado com sucesso",
+        "there's no egg available with the panel": "Não há ovo disponível com o painel",
+        "there's no port available on the node": "Não há porta disponível no Node",
+        "edit": "Editar",
+        "create server": "Criar servidor",
+        "server created": "Servidor criado",
+        "select a docker image": "Selecione uma imagem Docker",
+        "there's no port with this option": "Não há porta com esta opção",
+        "there's no egg with this option": "Não há ovo com esta opção",
+        "there's no server with this option": "Não há servidor com esta opção"
     },
     "help": {
         "server": "Consiste em todos os comandos relacionados ao Servidor",
@@ -314,6 +328,8 @@
         "option.egg": "Selecionar o Egg para este novo servidor",
         "option.database_limit": "Definir o número máximo de bancos de dados permitidos para o servidor",
         "option.allocation_limit": "Definir o número máximo de alocações de rede para o servidor",
-        "option.backup_limit": "Definir o número máximo de backups permitidos para o servidor"
+        "option.backup_limit": "Definir o número máximo de backups permitidos para o servidor",
+        "option.show_ip": "Mostrar/ocultar IP na incorporação",
+        "option.role_access": "Acesso de função adicional para esta incorporação controlável."
     }
 }

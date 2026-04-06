@@ -272,7 +272,21 @@
         "Select a Docker Image": "Sélectionner une image Docker",
         "There's no Port with this Option": "Il n'y a pas de port avec cette option",
         "There's no Egg with this Option": "Il n'y a pas d'Egg avec cette option",
-        "There's no Server with this Option": "Il n'y a pas de serveur avec cette option"
+        "There's no Server with this Option": "Il n'y a pas de serveur avec cette option",
+        "message link": "Lien vers les messages",
+        "role access": "Accès aux rôles",
+        "webhook creation failed": "La création du webhook a échoué",
+        "please assign administrator permissions to the bot": "Veuillez attribuer des autorisations d'administrateur au bot",
+        "successfully created the server": "Création réussie du serveur",
+        "there's no egg available with the panel": "Aucun œuf n'est disponible avec le panneau",
+        "there's no port available on the node": "Aucun port n'est disponible sur le nœud",
+        "edit": "Modifier",
+        "create server": "Créer un serveur",
+        "server created": "Serveur créé",
+        "select a docker image": "Sélectionnez une image Docker",
+        "there's no port with this option": "Il n'y a pas de port avec cette option",
+        "there's no egg with this option": "Il n'y a pas d'œuf avec cette option",
+        "there's no server with this option": "Il n'y a pas de serveur avec cette option"
     },
     "help": {
         "server": "Comprend toutes les commandes liées au serveur",
@@ -314,6 +328,8 @@
         "option.egg": "Sélectionner l'Egg pour ce nouveau serveur",
         "option.database_limit": "Définir le nombre maximum de bases de données autorisées pour le serveur",
         "option.allocation_limit": "Définir le nombre maximum d'allocations réseau pour le serveur",
-        "option.backup_limit": "Définir le nombre maximum de sauvegardes autorisées pour le serveur"
+        "option.backup_limit": "Définir le nombre maximum de sauvegardes autorisées pour le serveur",
+        "option.show_ip": "Afficher/Masquer l'IP dans l'intégration",
+        "option.role_access": "Accès au rôle supplémentaire pour cette intégration contrôlable."
     }
 }

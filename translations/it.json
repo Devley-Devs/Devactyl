@@ -272,7 +272,21 @@
         "Select a Docker Image": "Seleziona un'Immagine Docker",
         "There's no Port with this Option": "Non c'è nessuna Porta con questa Opzione",
         "There's no Egg with this Option": "Non c'è nessun Egg con questa Opzione",
-        "There's no Server with this Option": "Non c'è nessun Server con questa Opzione"
+        "There's no Server with this Option": "Non c'è nessun Server con questa Opzione",
+        "message link": "Collegamento al messaggio",
+        "role access": "Accesso al ruolo",
+        "webhook creation failed": "Creazione del webhook non riuscita",
+        "please assign administrator permissions to the bot": "Assegna le autorizzazioni di amministratore al bot",
+        "successfully created the server": "Server creato con successo",
+        "there's no egg available with the panel": "Non c'è alcun Uovo disponibile con il Pannello",
+        "there's no port available on the node": "Non c'è nessuna porta disponibile sul Node",
+        "edit": "Modificare",
+        "create server": "Crea server",
+        "server created": "Server creato",
+        "select a docker image": "Seleziona un'immagine Docker",
+        "there's no port with this option": "Non esiste alcuna porta con questa opzione",
+        "there's no egg with this option": "Non c'è nessun Uovo con questa Opzione",
+        "there's no server with this option": "Non esiste alcun server con questa opzione"
     },
     "help": {
         "server": "Consiste di tutti i comandi relativi al Server",
@@ -314,6 +328,8 @@
         "option.egg": "Seleziona l'Egg per questo nuovo server",
         "option.database_limit": "Imposta il numero massimo di database consentiti per il server",
         "option.allocation_limit": "Imposta il numero massimo di allocazioni di rete per il server",
-        "option.backup_limit": "Imposta il numero massimo di backup consentiti per il server"
+        "option.backup_limit": "Imposta il numero massimo di backup consentiti per il server",
+        "option.show_ip": "Mostra/nascondi IP nell'incorpora",
+        "option.role_access": "Accesso al ruolo aggiuntivo per questo incorporamento controllabile."
     }
 }

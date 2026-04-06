@@ -272,7 +272,21 @@
         "Select a Docker Image": "Выберите образ Docker",
         "There's no Port with this Option": "Нет порта с этой опцией",
         "There's no Egg with this Option": "Нет Egg с этой опцией",
-        "There's no Server with this Option": "Нет сервера с этой опцией"
+        "There's no Server with this Option": "Нет сервера с этой опцией",
+        "message link": "Ссылка на сообщение",
+        "role access": "Ролевой доступ",
+        "webhook creation failed": "Не удалось создать вебхук",
+        "please assign administrator permissions to the bot": "Пожалуйста, дайте боту права администратора.",
+        "successfully created the server": "Сервер успешно создан.",
+        "there's no egg available with the panel": "На панели нет яйца.",
+        "there's no port available on the node": "На узле нет доступного порта",
+        "edit": "Редактировать",
+        "create server": "Создать сервер",
+        "server created": "Сервер создан",
+        "select a docker image": "Выберите образ Docker",
+        "there's no port with this option": "Для этой опции нет порта",
+        "there's no egg with this option": "В этом варианте нет яйца",
+        "there's no server with this option": "Нет сервера с этой опцией"
     },
     "help": {
         "server": "Содержит все команды, связанные с сервером",
@@ -314,6 +328,8 @@
         "option.egg": "Выберите Egg для этого нового сервера",
         "option.database_limit": "Установите максимальное количество баз данных, разрешенных для сервера",
         "option.allocation_limit": "Установите максимальное количество сетевых выделений для сервера",
-        "option.backup_limit": "Установите максимальное количество резервных копий, разрешенных для сервера"
+        "option.backup_limit": "Установите максимальное количество резервных копий, разрешенных для сервера",
+        "option.show_ip": "Показать/скрыть IP во вставке",
+        "option.role_access": "Дополнительный ролевой доступ для этого управляемого внедрения."
     }
 }

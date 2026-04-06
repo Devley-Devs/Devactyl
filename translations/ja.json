@@ -272,7 +272,21 @@
         "Select a Docker Image": "Dockerイメージを選択",
         "There's no Port with this Option": "このオプションにはポートがありません",
         "There's no Egg with this Option": "このオプションにはEggがありません",
-        "There's no Server with this Option": "このオプションにはサーバーがありません"
+        "There's no Server with this Option": "このオプションにはサーバーがありません",
+        "message link": "メッセージリンク",
+        "role access": "ロールアクセス",
+        "webhook creation failed": "Webhook の作成に失敗しました",
+        "please assign administrator permissions to the bot": "ボットに管理者権限を割り当ててください",
+        "successfully created the server": "サーバーが正常に作成されました",
+        "there's no egg available with the panel": "パネルで利用できるエッグはありません",
+        "there's no port available on the node": "ノード上に使用可能なポートがありません",
+        "edit": "編集",
+        "create server": "サーバーの作成",
+        "server created": "サーバーが作成されました",
+        "select a docker image": "Docker イメージを選択します",
+        "there's no port with this option": "このオプションにはポートがありません",
+        "there's no egg with this option": "このオプションにはエッグはありません",
+        "there's no server with this option": "このオプションを備えたサーバーはありません"
     },
     "help": {
         "server": "サーバーに関連するすべてのコマンドで構成されています",
@@ -314,6 +328,8 @@
         "option.egg": "この新しいサーバーのEggを選択します",
         "option.database_limit": "サーバーに許可されるデータベースの最大数を設定します",
         "option.allocation_limit": "サーバーのネットワーク割り当ての最大数を設定します",
-        "option.backup_limit": "サーバーに許可されるバックアップの最大数を設定します"
+        "option.backup_limit": "サーバーに許可されるバックアップの最大数を設定します",
+        "option.show_ip": "埋め込みで IP を表示 / 非表示にする",
+        "option.role_access": "この制御可能な埋め込みに対する追加のロール アクセス。"
     }
 }

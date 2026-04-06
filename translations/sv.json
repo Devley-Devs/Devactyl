@@ -272,7 +272,21 @@
         "Select a Docker Image": "Välj en Docker-avbildning",
         "There's no Port with this Option": "Det finns ingen port med detta alternativ",
         "There's no Egg with this Option": "Det finns ingen Egg med detta alternativ",
-        "There's no Server with this Option": "Det finns ingen server med detta alternativ"
+        "There's no Server with this Option": "Det finns ingen server med detta alternativ",
+        "message link": "Meddelandelänk",
+        "role access": "Rolltillgång",
+        "webhook creation failed": "Det gick inte att skapa webbhook",
+        "please assign administrator permissions to the bot": "Vänligen tilldela administratörsbehörigheter till boten",
+        "successfully created the server": "Servern skapades framgångsrikt",
+        "there's no egg available with the panel": "Det finns inget ägg tillgängligt med panelen",
+        "there's no port available on the node": "Det finns ingen port tillgänglig på noden",
+        "edit": "Redigera",
+        "create server": "Skapa server",
+        "server created": "Server skapad",
+        "select a docker image": "Välj en Docker-bild",
+        "there's no port with this option": "Det finns ingen port med det här alternativet",
+        "there's no egg with this option": "Det finns inget ägg med det här alternativet",
+        "there's no server with this option": "Det finns ingen server med detta alternativ"
     },
     "help": {
         "server": "Består av alla kommandon relaterade till servern",
@@ -314,6 +328,8 @@
         "option.egg": "Välj Egg för denna nya server",
         "option.database_limit": "Ställ in det maximala antalet databaser som är tillåtna för servern",
         "option.allocation_limit": "Ställ in det maximala antalet nätverksallokeringar för servern",
-        "option.backup_limit": "Ställ in det maximala antalet säkerhetskopior som är tillåtna för servern"
+        "option.backup_limit": "Ställ in det maximala antalet säkerhetskopior som är tillåtna för servern",
+        "option.show_ip": "Visa/dölj IP i Embed",
+        "option.role_access": "Ytterligare rollåtkomst för denna kontrollerbara inbäddning."
     }
 }

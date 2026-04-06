@@ -273,7 +273,21 @@
         "Select a Docker Image": "选择一个 Docker 镜像",
         "There's no Port with this Option": "此选项没有端口",
         "There's no Egg with this Option": "此选项没有 Egg",
-        "There's no Server with this Option": "此选项没有服务器"
+        "There's no Server with this Option": "此选项没有服务器",
+        "message link": "留言链接",
+        "role access": "角色访问",
+        "webhook creation failed": "Webhook 创建失败",
+        "please assign administrator permissions to the bot": "请为机器人分配管理员权限",
+        "successfully created the server": "成功创建服务器",
+        "there's no egg available with the panel": "面板没有可用的鸡蛋",
+        "there's no port available on the node": "节点上没有可用的端口",
+        "edit": "编辑",
+        "create server": "创建服务器",
+        "server created": "服务器已创建",
+        "select a docker image": "选择 Docker 镜像",
+        "there's no port with this option": "没有带有此选项的端口",
+        "there's no egg with this option": "这个选项没有鸡蛋",
+        "there's no server with this option": "没有带有此选项的服务器"
     },
     "help": {
         "server": "包含所有与服务器相关的命令",
@@ -315,6 +329,8 @@
         "option.egg": "选择此新服务器的 Egg",
         "option.database_limit": "设置服务器允许的最大数据库数量",
         "option.allocation_limit": "设置服务器的最大网络分配数量",
-        "option.backup_limit": "设置服务器允许的最大备份数量"
+        "option.backup_limit": "设置服务器允许的最大备份数量",
+        "option.show_ip": "在嵌入中显示/隐藏 IP",
+        "option.role_access": "此可控嵌入的附加角色访问权限。"
     }
 }

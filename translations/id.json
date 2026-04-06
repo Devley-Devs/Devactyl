@@ -272,7 +272,21 @@
         "Select a Docker Image": "Pilih Image Docker",
         "There's no Port with this Option": "Tidak ada Port dengan Opsi ini",
         "There's no Egg with this Option": "Tidak ada Egg dengan Opsi ini",
-        "There's no Server with this Option": "Tidak ada Server dengan Opsi ini"
+        "There's no Server with this Option": "Tidak ada Server dengan Opsi ini",
+        "message link": "Tautan Pesan",
+        "role access": "Akses Peran",
+        "webhook creation failed": "Pembuatan webhook gagal",
+        "please assign administrator permissions to the bot": "Harap tetapkan izin administrator ke bot",
+        "successfully created the server": "Berhasil membuat Server",
+        "there's no egg available with the panel": "Tidak ada Telur yang tersedia dengan Panel",
+        "there's no port available on the node": "Tidak ada Port yang tersedia di Node",
+        "edit": "Sunting",
+        "create server": "Buat Server",
+        "server created": "Server Dibuat",
+        "select a docker image": "Pilih Gambar Docker",
+        "there's no port with this option": "Tidak ada Port dengan Opsi ini",
+        "there's no egg with this option": "Tidak ada Telur dengan Opsi ini",
+        "there's no server with this option": "Tidak ada Server dengan Opsi ini"
     },
     "help": {
         "server": "Terdiri dari semua perintah yang terkait dengan Server",
@@ -314,6 +328,8 @@
         "option.egg": "Pilih Egg untuk server baru ini",
         "option.database_limit": "Atur jumlah maksimum database yang diizinkan untuk server",
         "option.allocation_limit": "Atur jumlah maksimum alokasi jaringan untuk server",
-        "option.backup_limit": "Atur jumlah maksimum cadangan yang diizinkan untuk server"
+        "option.backup_limit": "Atur jumlah maksimum cadangan yang diizinkan untuk server",
+        "option.show_ip": "Tampilkan / Sembunyikan IP di Sematkan",
+        "option.role_access": "Akses Peran tambahan untuk penyematan yang dapat dikontrol ini."
     }
 }
